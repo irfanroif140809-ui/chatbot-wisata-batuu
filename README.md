@@ -1,1 +1,1 @@
-app.py).# chatbot-wisata-batuu
+app.py).# requirements.txt #chatbot-wisata-batuu
